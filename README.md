@@ -1,7 +1,7 @@
 # .py
-notes for python and projects. 
+notes for python and projects.(TRACKING DOWN EVERYTHING). 
 
-# Python Learning Notes 🐍
+# MY PYTHON NOTES!!
 
 
 This repository contains my daily learning notes and small experiments in Python.
@@ -31,5 +31,4 @@ print(d, type(d))
 
 - Continued strengthening Python fundamentals
 - Practiced problem-solving and logical thinking
-- Focused on writing clean and readable code
-- Stayed consistent with daily learning
+- Focused on writing clean and readable code...
