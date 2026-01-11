@@ -32,3 +32,27 @@ print(d, type(d))
 - Continued strengthening Python fundamentals
 - Practiced problem-solving and logical thinking
 - Focused on writing clean and readable code...
+
+
+Day 4 – Control Flow (Decision Making)
+- Learned conditional statements
+- if, elif, else
+- Comparison operators
+- Logical operators (and, or, not)
+
+### Mini Experiment – Conditional Logic
+```python
+age = 19
+
+if age >= 18:
+    print("Eligible to vote")
+else:
+    print("Not eligible to vote")
+for i in range(1, 6):
+    print("Iteration:", i)
+
+count = 1
+while count <= 5:
+    print("Count:", count)
+    count += 1
+
