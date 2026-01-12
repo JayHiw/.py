@@ -14,7 +14,39 @@ This repository contains my daily learning notes and small experiments in Python
 ## Day 2 – Data Types
 - int, float, string
 - type() function
-  - also 
+  - also
+ 
+What I focused on today
+
+Strengthened core Python fundamentals
+
+Practiced logical thinking & problem decomposition
+
+Understood how small decisions affect program flow
+
+Improved code readability and structure
+
+Continued building the habit of daily learning & tracking
+
+ Key Learnings
+
+Writing code is easy, writing understandable code is a skill
+
+Logic > syntax
+
+Clean structure today saves debugging time tomorrow
+
+Consistency compounds faster than motivation
+
+Small Practice Snippet
+# Simple logic practice: even or odd checker
+
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
 ### Mini Experiment – Understanding Types
 ```python
 a = 10
