@@ -88,3 +88,59 @@ while count <= 5:
     print("Count:", count)
     count += 1
 
+
+
+
+Program to Find Sum of Two Numbers
+Aim
+
+To add two numbers entered by the user.
+
+Code
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+sum = a + b
+print("Sum =", sum)
+
+Output
+Enter first number: 10
+Enter second number: 20
+Sum = 30
+
+🔹 4. Program to Check Even or Odd
+Aim
+
+To check whether a number is even or odd.
+
+Code
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
+
+Output
+Enter a number: 7
+Odd number
+
+🔹 5. Program to Find Largest of Three Numbers
+Aim
+
+To find the largest of three numbers.
+
+Code
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+c = int(input("Enter third number: "))
+
+if a > b and a > c:
+    print("Largest number is", a)
+elif b > c:
+    print("Largest number is", b)
+else:
+    print("Largest number is", c)
+
+Output
+Largest number is 25
