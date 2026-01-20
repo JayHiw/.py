@@ -35,3 +35,30 @@ print(a, type(a))
 print(b, type(b))
 print(c, type(c))
 print(d, type(d))
+
+
+ Conditional statements (if, elif, else)
+
+ Comparison operators
+
+ Logical operators (and, or, not)
+
+ for loop
+
+ while loop
+
+Mini Experiment — Conditional Logic
+age = 19
+
+if age >= 18:
+    print("Eligible to vote")
+else:
+    print("Not eligible to vote")
+Loop Practice
+for i in range(1, 6):
+    print("Iteration:", i)
+
+count = 1
+while count <= 5:
+    print("Count:", count)
+    count += 1
