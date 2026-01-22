@@ -1,4 +1,4 @@
-## 📌 Purpose of This Repo
+## Purpose of This Repo
 
 - Track daily Python learning
 - Strengthen fundamentals step by step
