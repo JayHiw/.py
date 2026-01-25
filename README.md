@@ -6,10 +6,6 @@
 - Write clean, readable code
 - Build discipline through daily documentation
 
----
-
-## 🗓️ Daily Learning Log
-
 ###  Day 1 — Getting Started
 - [x] Installed Python
 - [x] Learned `print()`
