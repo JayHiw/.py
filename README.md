@@ -169,19 +169,3 @@ if radius > 0:
     print("Area of the circle =", area)
 
 
-# -------------------------------------------------
-# 7. Using for loop and range() function
-# Write a Python program to print all prime numbers within a given interval.
-# -------------------------------------------------
-
-start = int(input("Enter starting number: "))
-end = int(input("Enter ending number: "))
-
-for num in range(start, end + 1):
-    if num > 1:
-        for i in range(2, num):
-            if num % i == 0:
-                break
-        else:
-            print(num)
-
