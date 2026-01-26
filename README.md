@@ -1,11 +1,5 @@
 ## Purpose of This Repo
 
-- Track daily Python learning
-- Strengthen fundamentals step by step
-- Practice logic and problem-solving
-- Write clean, readable code
-- Build discipline through daily documentation
-
 ###  Day 1 — Getting Started
 - [x] Installed Python
 - [x] Learned `print()`
