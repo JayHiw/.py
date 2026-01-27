@@ -147,25 +147,4 @@ temp = number
 sum = 0
 
 while temp > 0:
-    digit = temp % 10
-    sum += digit ** 3
-    temp //= 10
-
-if sum == number:
-    print(number, "is an Armstrong number")
-else:
-    print(number, "is not an Armstrong number")
-
-
-# -------------------------------------------------
-# 6. Using if condition
-# Write a Python program to find the area of a circle only if the radius is greater than zero.
-# -------------------------------------------------
-
-radius = float(input("Enter radius: "))
-
-if radius > 0:
-    area = 3.14 * radius * radius
-    print("Area of the circle =", area)
-
-
+    digit = temp % 
