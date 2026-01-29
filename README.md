@@ -3,10 +3,6 @@
 ###  Day 1 — Getting Started
 - [x] Installed Python
 - [x] Learned `print()`
-- [x] Understood variables
-
----
-
 ###  Day 2 — Data Types
 - [x] `int`
 - [x] `float`
