@@ -144,3 +144,12 @@ sum = 0
 
 while temp > 0:
     digit = temp % 
+
+
+
+
+### Experiments & Notes
+Some files may look simple — that’s intentional.
+Each program focuses on **logic clarity**, not shortcuts.
+Comments are added where future confusion is expected.
+
