@@ -134,18 +134,6 @@ print("Simple Interest =", si)
 
 
 # -------------------------------------------------
-# 5. Using while loop and if condition
-# Write a Python program to check whether a given number is an Armstrong number.
-# -------------------------------------------------
-
-number = int(input("Enter a number: "))
-temp = number
-sum = 0
-
-while temp > 0:
-    digit = temp % 
-
-
 
 
 ### Experiments & Notes
