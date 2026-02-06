@@ -1,8 +1,7 @@
 ## Purpose of This Repo
 
 ###  Day 1 — Getting Started
-- [x] Installed Python
-- [x] Learned `print()`
+
 ###  Day 2 — Data Types
 - [x] `int`
 - [x] `float`
