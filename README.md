@@ -59,9 +59,6 @@ else:
     print("Odd number")
 
 
-
-
-"""
 Assignment No. 2
 Subject: Python Programming
 Topic: Control Statements and Loops
