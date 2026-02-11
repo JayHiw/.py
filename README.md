@@ -124,9 +124,6 @@ si = (p * t * r) / 100
 print("Simple Interest =", si)
 
 
-# -------------------------------------------------
-
-
 ### Experiments & Notes
 Some files may look simple — that’s intentional.
 Each program focuses on **logic clarity**, not shortcuts.
