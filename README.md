@@ -64,10 +64,7 @@ Subject: Python Programming
 Topic: Control Statements and Loops
 """
 
-# -------------------------------------------------
-# 1. Using if statement
-# Write a Python program to add two numbers only if both numbers are positive.
-# -------------------------------------------------
+---
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
@@ -75,8 +72,6 @@ num2 = float(input("Enter second number: "))
 if num1 > 0 and num2 > 0:
     print("Sum =", num1 + num2)
 
-
-# -------------------------------------------------
 # 2. Using if–else statement
 # Write a Python program to find the maximum of two numbers using an if–else control structure.
 # -------------------------------------------------
