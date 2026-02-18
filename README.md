@@ -99,7 +99,6 @@ for i in range(1, num + 1):
 print("Factorial of", num, "is", factorial)
 
 
-# -------------------------------------------------
 # 4. Using if–elif–else statement
 # Write a Python program to calculate Simple Interest, where different interest rates
 # are applied using if–elif–else based on the time period.
