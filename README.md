@@ -1,6 +1,4 @@
-print(b, type(b))
-print(c, type(c))
-print(d, type(d))
+
 
 
  Conditional statements (if, elif, else)
